@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Witcher Övme</string>
+    <string name="anaBaslik">Witcher övme uygulaması</string>
+    <string name="msg">Bu uygulamada aralarda sık sık Witcher övülmektedir</string>
+    <string name="popup">TADILATTA</string>
+    <string name="button1">KAMP ATESİ</string>
+    <string name="button2">GALERI</string>
+    <string name="galeriMsg">Ethem\'in galerisi</string>
+    <string name="button3">Ana sayfa</string>
+    <string name="galeriBaslik">GALERI</string>
+
+</resources>

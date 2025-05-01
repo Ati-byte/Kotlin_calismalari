@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Praising The Witcher</string>
+    <string name="anaBaslik">The Witcher praise app</string>
+    <string name="msg">In this application, the Witcher is often praised between Dec</string>
+    <string name="popup">Renovation</string>
+    <string name="button1">BONFIRE</string>
+    <string name="button2">gallery</string>
+    <string name="galeriMsg">Ethem\'s gallery</string>
+    <string name="button3">Home</string>
+    <string name="galeriBaslik">GALLERY</string>
+
+</resources>
