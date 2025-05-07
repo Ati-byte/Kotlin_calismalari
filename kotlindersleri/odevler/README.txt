@@ -1,0 +1,1 @@
+Dosya'nın büyüklüğü yüzünden tam projeyi yükleyemedim build.gradle.kts içerisindeki kodları göremeyebilirsiniz
