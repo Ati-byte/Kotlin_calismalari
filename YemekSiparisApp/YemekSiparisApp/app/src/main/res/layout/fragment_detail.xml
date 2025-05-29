@@ -1,0 +1,43 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imageYemek"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/textYemekAdi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:paddingTop="8dp" />
+
+    <TextView
+        android:id="@+id/textYemekFiyat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/editTextAdet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Adet girin"
+        android:inputType="number"
+        android:layout_marginTop="12dp"/>
+
+    <Button
+        android:id="@+id/buttonSepeteEkle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sepete Ekle"
+        android:layout_gravity="center_horizontal"/>
+</LinearLayout>
